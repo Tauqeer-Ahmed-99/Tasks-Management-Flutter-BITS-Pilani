@@ -23,6 +23,8 @@ Please consider out Assignment.
 - Personalized Tasks Dashboard.
 - Status of the tasks created. (Not Started/In Progress/Done)
 - User can View, Edit and Delete Tasks.
+- User can select and delete multiple tasks by tapping and holding task to activate multiple delete.
+- To close multiple selection user has to unselect all the selected tasks.
 - Done Tasks are striked through.
 
 ## Getting Started
