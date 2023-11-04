@@ -42,6 +42,14 @@ TASKS_Back4App
 - [todo_back4app.iml](https://drive.google.com/file/d/1scey24LMSOlUTQGbK9f3LypBu3VhzAFT/view?usp=drive_link)
 - [android.zip](https://drive.google.com/file/d/1MDBaXVVUnRef4e6bvU7gz6Lg2bqYgvHF/view?usp=drive_link)
 
+## Features
+
+- User Management (Signin / Signup) with Back4App Parse SDK.
+- Personalized Tasks Dashboard.
+- Status of the tasks created. (Not Started/In Progress/Done)
+- User can View, Edit and Delete Tasks.
+- Done Tasks are striked through.
+
 ## Flutter
 
 This project is a starting point for a Flutter application.
