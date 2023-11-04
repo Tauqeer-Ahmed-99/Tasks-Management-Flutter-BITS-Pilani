@@ -1,17 +1,13 @@
-## TASKS_Back4App
-
-## BITS Pilani
-
-## 2022MT13202
-
 # KHAN TAUQEER AHMED KAREEM
 
-## Cross Platform Application Development
+Cross Platform Application Development
+BITS Pilani
+2022MT13202
 
-## Assignment - 1
-
+Assignment - 1
 Tasks Management Application.
-Assignment -1
+
+TASKS_Back4App
 
 ## Getting Started
 
