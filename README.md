@@ -13,7 +13,7 @@ TASKS_Back4App\
 
 I am Tauqeer Khan with BITS ID 2022MT13202, and I am completing this course with my sibling Tanvir Khan, his BITS ID is 2022MT13203, We research together for every Assignements and develop the softwares together in cases like these. Therefore, our softwares and functionalities are similar to each other.
 We wanted to let you know before hand because in the past we have got comments for other subjects where Professors marked our assignments as Plagiarised with each other.
-Please consider out Assignment.
+Please consider our Assignment.
 
 ## Features
 
@@ -36,6 +36,8 @@ Please consider out Assignment.
 - Flutter SDK [Install Guide](https://docs.flutter.dev/get-started/install)
 
 - Android Studio with emulator initialized. [Install Guide](https://developer.android.com/studio) [Emulator Initialization Guide](https://developer.android.com/design-for-safety/privacy-sandbox/download#:~:text=Set%20up%20an%20Android%20device%20emulator%20image,-To%20set%20up&text=In%20Android%20Studio%2C%20go%20to,it%20isn't%20already%20installed.)
+
+- Make sure to install Android Command-line tools and accept android licenses after installing Android Studio.
 
 - VS Code Editor
 
