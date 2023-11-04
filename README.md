@@ -7,7 +7,13 @@ BITS Pilani
 Assignment - 1
 Tasks Management Application.
 
-TASKS_Back4App
+TASKS_Back4App\
+
+# Important Note to Professor:
+
+I am Tauqeer Khan with BITS ID 2022MT13202, and I am completing this course with my sibling Tanvir Khan, his BITS ID is 2022MT13203, We research together for every Assignements and develop the softwares together in cases like these. Therefore, our softwares and functionalities are similar to each other.
+We wanted to let you know before hand because in the past we have got comments for other subjects where Professors marked our assignments as Plagiarised with each other.
+Please consider out Assignment.
 
 ## Features
 
