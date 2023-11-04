@@ -9,6 +9,14 @@ Tasks Management Application.
 
 TASKS_Back4App
 
+## Features
+
+- User Management (Signin / Signup) with Back4App Parse SDK.
+- Personalized Tasks Dashboard.
+- Status of the tasks created. (Not Started/In Progress/Done)
+- User can View, Edit and Delete Tasks.
+- Done Tasks are striked through.
+
 ## Getting Started
 
 ### This app is developed on Flutter 3.13.9
@@ -41,14 +49,6 @@ TASKS_Back4App
 - [.env](https://drive.google.com/file/d/1o3uqEzX_29tDxGHaS0G-GStID0u5SGZY/view?usp=drive_link)
 - [todo_back4app.iml](https://drive.google.com/file/d/1scey24LMSOlUTQGbK9f3LypBu3VhzAFT/view?usp=drive_link)
 - [android.zip](https://drive.google.com/file/d/1MDBaXVVUnRef4e6bvU7gz6Lg2bqYgvHF/view?usp=drive_link)
-
-## Features
-
-- User Management (Signin / Signup) with Back4App Parse SDK.
-- Personalized Tasks Dashboard.
-- Status of the tasks created. (Not Started/In Progress/Done)
-- User can View, Edit and Delete Tasks.
-- Done Tasks are striked through.
 
 ## Flutter
 
