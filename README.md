@@ -32,6 +32,7 @@ TASKS_Back4App
 - From bottom right device button start android emulator.
 - Click on Run from top menu.
 - Click on Run without debugging.
+- To build an apk run "flutter build apk --release" in terminal.
 
 #### Downloads:
 
