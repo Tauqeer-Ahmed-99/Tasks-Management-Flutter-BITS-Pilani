@@ -25,7 +25,7 @@ TASKS_Back4App
 
 #### Prerequisites:
 
-- Flutter SDK [Install Guid](https://docs.flutter.dev/get-started/install)
+- Flutter SDK [Install Guide](https://docs.flutter.dev/get-started/install)
 
 - Android Studio with emulator initialized. [Install Guide](https://developer.android.com/studio) [Emulator Initialization Guide](https://developer.android.com/design-for-safety/privacy-sandbox/download#:~:text=Set%20up%20an%20Android%20device%20emulator%20image,-To%20set%20up&text=In%20Android%20Studio%2C%20go%20to,it%20isn't%20already%20installed.)
 
