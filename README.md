@@ -25,6 +25,8 @@ TASKS_Back4App
 
 - Clone This repository.
 - Open Project in VS Code.
+- Download ".env" and "todo_back4app.iml" files from below and copy them in the root directory of the project.
+- Download android.zip file from below and extract/copy them into [project]/android folder.
 - Run "flutter pub get" in terminal to install packages.
 - Open lib/main.dart.
 - From bottom right device button start android emulator.
@@ -35,6 +37,9 @@ TASKS_Back4App
 
 - Also find Attached APK for this app.
 - [Download Task Management.apk](https://drive.google.com/file/d/1Sszof12bhIaxadkwnSQPiagwk6vjeU8z/view?usp=drive_link)
+- [.env](https://drive.google.com/file/d/1o3uqEzX_29tDxGHaS0G-GStID0u5SGZY/view?usp=drive_link)
+- [todo_back4app.iml](https://drive.google.com/file/d/1scey24LMSOlUTQGbK9f3LypBu3VhzAFT/view?usp=drive_link)
+- [android.zip](https://drive.google.com/file/d/1MDBaXVVUnRef4e6bvU7gz6Lg2bqYgvHF/view?usp=drive_link)
 
 ## Flutter
 
